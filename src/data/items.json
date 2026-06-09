@@ -1,0 +1,37 @@
+[
+  {
+    "id": "diary",
+    "name": "古旧日记本",
+    "icon": "book-open",
+    "description": "一本泛黄的日记，最后一页写着：\"那年秋天，1947年，我永远离开了这个地方...\"",
+    "combinable": false
+  },
+  {
+    "id": "note-paper",
+    "name": "线索纸条",
+    "icon": "file-text",
+    "description": "一张皱巴巴的纸条，上面写着：\"密码的前两位是1和9\"",
+    "combinable": false
+  },
+  {
+    "id": "screwdriver",
+    "name": "螺丝刀",
+    "icon": "wrench",
+    "description": "一把旧螺丝刀，也许可以用来打开什么东西。",
+    "combinable": false
+  },
+  {
+    "id": "secret-key",
+    "name": "密室钥匙",
+    "icon": "key",
+    "description": "一把古铜色的钥匙，看起来可以打开某扇门。",
+    "combinable": false
+  },
+  {
+    "id": "safe-document",
+    "name": "保险箱文件",
+    "icon": "scroll",
+    "description": "文件上用红墨水写着：\"8-2-6-4，这是最终的答案。\"",
+    "combinable": false
+  }
+]

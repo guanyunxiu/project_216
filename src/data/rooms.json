@@ -1,0 +1,20 @@
+[
+  {
+    "id": "study",
+    "name": "书房",
+    "backgroundImage": "study",
+    "description": "一间昏暗的书房，书架上堆满了古籍，桌面上散落着纸张。墙上有一扇上锁的门，门上有一个四位数字密码锁。"
+  },
+  {
+    "id": "basement",
+    "name": "地下室",
+    "backgroundImage": "basement",
+    "description": "潮湿阴暗的地下室，墙角有一张破旧的桌子，上面放着拼图碎片。深处有一扇沉重的铁门，上面有一个钥匙孔。"
+  },
+  {
+    "id": "secret-room",
+    "name": "密室",
+    "backgroundImage": "secret-room",
+    "description": "一间神秘的密室，中央有一个保险箱，墙上有一个最终的密码锁。解开它，你就能逃出这个神秘建筑。"
+  }
+]

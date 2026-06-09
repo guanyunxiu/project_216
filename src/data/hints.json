@@ -1,0 +1,47 @@
+[
+  {
+    "puzzleId": "study-password",
+    "step": 1,
+    "text": "仔细看看房间里有什么可以阅读的东西？书架上也许有线索。"
+  },
+  {
+    "puzzleId": "study-password",
+    "step": 2,
+    "text": "日记本中提到了一个年份，再找找纸条上的提示，它们可以组合出密码。"
+  },
+  {
+    "puzzleId": "study-password",
+    "step": 3,
+    "text": "日记中的年份是1947，纸条说前两位是1和9。密码就是1947。"
+  },
+  {
+    "puzzleId": "basement-puzzle",
+    "step": 1,
+    "text": "桌子上的拼图碎片看起来可以拼成一幅画，试着把它们归位。"
+  },
+  {
+    "puzzleId": "basement-puzzle",
+    "step": 2,
+    "text": "从左上角开始，按行排列。注意碎片上的图案连续性。"
+  },
+  {
+    "puzzleId": "basement-puzzle",
+    "step": 3,
+    "text": "观察每块碎片边缘的图案，它们应该与相邻碎片的边缘无缝衔接。"
+  },
+  {
+    "puzzleId": "secret-password",
+    "step": 1,
+    "text": "密室里有个保险箱，也许需要用工具打开它？"
+  },
+  {
+    "puzzleId": "secret-password",
+    "step": 2,
+    "text": "用螺丝刀打开保险箱，里面应该有密码线索。"
+  },
+  {
+    "puzzleId": "secret-password",
+    "step": 3,
+    "text": "保险箱文件上写着8-2-6-4，这就是最终密码锁的答案。"
+  }
+]

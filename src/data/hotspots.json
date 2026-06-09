@@ -1,0 +1,101 @@
+[
+  {
+    "id": "study-bookshelf",
+    "roomId": "study",
+    "type": "item",
+    "label": "书架",
+    "x": 10,
+    "y": 15,
+    "width": 22,
+    "height": 50,
+    "itemId": "diary",
+    "examineText": "书架上有一本古旧的日记本，翻开最后一页...",
+    "consumedOnUse": false
+  },
+  {
+    "id": "study-desk",
+    "roomId": "study",
+    "type": "item",
+    "label": "书桌",
+    "x": 38,
+    "y": 45,
+    "width": 25,
+    "height": 35,
+    "itemId": "note-paper",
+    "examineText": "桌面上散落着一些纸张，其中一张写着数字线索...",
+    "consumedOnUse": false
+  },
+  {
+    "id": "study-door",
+    "roomId": "study",
+    "type": "puzzle",
+    "label": "密码门",
+    "x": 72,
+    "y": 10,
+    "width": 20,
+    "height": 60,
+    "puzzleId": "study-password",
+    "targetRoomId": "basement"
+  },
+  {
+    "id": "basement-table",
+    "roomId": "basement",
+    "type": "puzzle",
+    "label": "拼图桌",
+    "x": 15,
+    "y": 40,
+    "width": 30,
+    "height": 35,
+    "puzzleId": "basement-puzzle"
+  },
+  {
+    "id": "basement-toolbox",
+    "roomId": "basement",
+    "type": "item",
+    "label": "工具箱",
+    "x": 55,
+    "y": 55,
+    "width": 18,
+    "height": 22,
+    "itemId": "screwdriver",
+    "examineText": "工具箱里有一把螺丝刀，也许后面会用到。",
+    "consumedOnUse": false
+  },
+  {
+    "id": "basement-door",
+    "roomId": "basement",
+    "type": "door",
+    "label": "密室铁门",
+    "x": 78,
+    "y": 10,
+    "width": 18,
+    "height": 60,
+    "targetRoomId": "secret-room",
+    "requiredItemId": "secret-key"
+  },
+  {
+    "id": "secret-safe",
+    "roomId": "secret-room",
+    "type": "item",
+    "label": "保险箱",
+    "x": 15,
+    "y": 35,
+    "width": 25,
+    "height": 30,
+    "itemId": "safe-document",
+    "requiredItemId": "screwdriver",
+    "examineText": "用螺丝刀撬开了保险箱，里面有一份文件...",
+    "consumedOnUse": true
+  },
+  {
+    "id": "secret-lock",
+    "roomId": "secret-room",
+    "type": "puzzle",
+    "label": "最终密码锁",
+    "x": 60,
+    "y": 15,
+    "width": 25,
+    "height": 55,
+    "puzzleId": "secret-password"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "study-password",
+    "type": "password",
+    "roomId": "study",
+    "rewardItemId": "",
+    "solved": false,
+    "answer": "1947"
+  },
+  {
+    "id": "basement-puzzle",
+    "type": "puzzle",
+    "roomId": "basement",
+    "rewardItemId": "secret-key",
+    "solved": false
+  },
+  {
+    "id": "secret-password",
+    "type": "password",
+    "roomId": "secret-room",
+    "rewardItemId": "",
+    "solved": false,
+    "answer": "8264"
+  }
+]
